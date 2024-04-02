@@ -96,6 +96,7 @@ void test5()
 
 int main()
 {
+    cout << "test test";
     // uncomment test for task
     test1();
     // test2();
